@@ -4,7 +4,7 @@
 - when opening a file after clicking on the **Open** button, the **extension** of that file is checked first before applying any formatting or coloring.
 - Changed the **Save** button to **Save as .py**
 - Added a **Save as .cs** inside **File** in order to save as **.cs** file
-- Saved file is now named **SavedFile.py** and **SavedFile.cs**, respectively, instead of **main.py**
+- Saved file is now named **SavedFile.py** and **SavedFile.cs**, respectively, instead of **main.py**.
 
 
 # Anubis IDE
